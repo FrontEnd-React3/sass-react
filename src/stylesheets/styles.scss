@@ -1,19 +1,18 @@
 @import './stylesfix.scss';
-$IntecGeel: rgb(218, 188, 19);
 
 .App-link {
   color: $pinky;
   border: $bigTitle solid $pinky;
   text-decoration: none;
-  
+  @include centerAlles;
   h1 {
-    color: lime;
+    color: cyan;
   }
 }
 
 p {
   color: $IntecGeel;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+}
+h1 {
+  color: red;
 }
