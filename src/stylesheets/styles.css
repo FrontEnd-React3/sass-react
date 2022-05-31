@@ -1,0 +1,15 @@
+.App-link {
+  color: pink;
+  border: 9px solid pink;
+  text-decoration: none;
+}
+.App-link h1 {
+  color: lime;
+}
+
+p {
+  color: rgb(218, 188, 19);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=styles.css.map */
